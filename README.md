@@ -8,7 +8,7 @@
  <br/>
  
 ### Languages and Tools:
-<div display="flex" flex-direction="space-between"><img align="left" alt="html 5" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919827.png" />
+<div style="display:flex;flex-direction:row"><img align="left" alt="html 5" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919827.png" />
  <img align="left" alt="css 3" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919826.png" />
  <img align="left" alt="javascript" width="32px" src="https://cdn-icons-png.flaticon.com/128/136/136530.png" />
  <img align="left" alt="python" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919852.png" />
