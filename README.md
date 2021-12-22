@@ -8,13 +8,14 @@
  <br/>
  
 ### Languages and Tools:
-<div style="display:flex;flex-direction:row"><img align="left" alt="html 5" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919827.png" />
- <img align="left" alt="css 3" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919826.png" />
- <img align="left" alt="javascript" width="32px" src="https://cdn-icons-png.flaticon.com/128/136/136530.png" />
- <img align="left" alt="python" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919852.png" />
- <img align="left" alt="scss" width="32px" src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" />
- <img align="left" alt="reactjs" width="32px" src="https://cdn-icons.flaticon.com/png/128/3074/premium/3074119.png?token=exp=1640091093~hmac=dbce0bf3bcb8838495ab8067e42a6bc3" />
- <img align="left" alt="git" width="32px" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" />
+<div style="display:flex;flex-direction:column"><img align="left" alt="html 5" width="48px" src="https://cdn-icons-png.flaticon.com/128/919/919827.png" />
+ <img align="left" alt="css 3" width="48px" src="https://cdn-icons-png.flaticon.com/128/919/919826.png" />
+ <img align="left" alt="javascript" width="48px" src="https://cdn-icons-png.flaticon.com/128/136/136530.png" />
+ <img align="left" alt="python" width="48px" src="https://cdn-icons-png.flaticon.com/128/919/919852.png" />
+ <img align="left" alt="scss" width="48px" src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" />
+ <img align="left" alt="reactjs" width="48px" src="https://cdn-icons.flaticon.com/png/128/3074/premium/3074119.png?token=exp=1640091093~hmac=dbce0bf3bcb8838495ab8067e42a6bc3" />
+ <img align="left" alt="git" width="48px" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" />
+ <img align="left" alt="firebase" width="48px" src="https://img.icons8.com/color/100/000000/firebase.png"/>
 </div>
 
 
