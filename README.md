@@ -16,6 +16,7 @@
  <img align="left" alt="reactjs" width="48px" src="https://cdn-icons-png.flaticon.com/128/1260/1260667.png" />
  <img align="left" alt="git" width="48px" src="https://cdn-icons-png.flaticon.com/128/919/919847.png" />
  <img align="left" alt="firebase" width="48px" src="https://img.icons8.com/color/100/000000/firebase.png"/>
+ <img align="left" alt="redux" width="48px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"/>
 </div>
 
 
